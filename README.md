@@ -1,7 +1,7 @@
 # js-shopingcart
 A simple shopping cart made with JavaScript
 
-[Check the project here{:target="_blank"}](https://mellifluous-lamington-0f04cf.netlify.app/)
+[Check the project here](https://mellifluous-lamington-0f04cf.netlify.app/)
 
 This is a project of a shopping cart built with html, css3 and JavaScript, from an exercise proposed in an online course.
 
